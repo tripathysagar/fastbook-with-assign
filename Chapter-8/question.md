@@ -98,7 +98,7 @@
 1. What does `argsort` do in PyTorch?<br>
     Find the index of each element wrt all the element
 1. Does sorting the movie biases give the same result as averaging overall movie ratings by movie? Why/why not?<br>
-    **TODO**
+    Both are not same as bias will be a smallno -1 to 1 whereas the rating is discreate value from 0-5
 1. How do you print the names and details of the layers in a model?<br>
     `learn.model`
 1. What is the "bootstrapping problem" in collaborative filtering?
